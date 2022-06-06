@@ -2,6 +2,7 @@ name: weather-snap
 version: git
 summary: Command line weather tool.
 description: |
+Divya & Ajay
   Get current weather:-
     $ wethr
   Get current weather in metric units
