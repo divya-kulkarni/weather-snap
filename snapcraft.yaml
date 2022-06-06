@@ -16,3 +16,4 @@ parts:
     plugin: npm
     npm-node-version: 14.16.1
     source: .
+    source-version: git
