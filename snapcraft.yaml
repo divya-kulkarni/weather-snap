@@ -3,12 +3,6 @@ version: git
 summary: Command line weather tool.
 description: |
 Divya & Ajay
-  Get current weather:-
-    $ wethr
-  Get current weather in metric units
-    $ wethr --metric
-  Get current weather in imperial units
-    $ wethr --imperial
 
 confinement: strict
 base: core20

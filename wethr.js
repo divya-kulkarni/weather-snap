@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-const got = require('got')
+/*const got = require('got')
 const ora = require('ora')
 const getEmoji = require('./get-emoji.js')
 const chalk = require('chalk')
@@ -55,3 +55,5 @@ function getTemperature ({ lat, lon, city, country }) {
 }
 
 getLocation().then(getTemperature)
+*/
+console.log('HELLLLOOOOOOO');
